@@ -1,0 +1,21 @@
+.head-item{
+    width: 50%;
+    background-color: rgb(246, 248, 248);
+    margin: auto;
+}
+table{
+    border: 0.1px ;
+    width:100%;
+}
+th{
+    text-align: left;
+}
+.Delete1{
+   background-color: red;
+}
+.Update1{
+    background-color: green;
+}
+tr:hover{
+background-color: antiquewhite;
+}
